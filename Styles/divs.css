@@ -1,0 +1,230 @@
+
+.first-div{
+  color:red;
+  background-color: red;
+  padding-left: 13px;
+  padding-right:13px;
+padding-bottom: 13px;
+padding-top:13px;
+vertical-align: middle;
+display:inline-block;
+}
+.first-p{
+  display:inline-block;
+  font-family:Arial;
+  vertical-align: middle;
+}
+.second-div{
+  display:inline-block;
+  color:green;
+  background-color:green;
+  border-radius:400px;
+  padding-top:18px;
+  padding-bottom:18px;
+  padding-right:7px;
+  padding-left:7px;
+  width:22px;
+  vertical-align: middle;
+}
+.third-div{
+  border-width:1px;
+  border-color:gray;
+display:inline-block;
+margin-left:15px;
+padding-left:13px;
+border-style:solid;
+padding-bottom:13px;
+padding-right:130px;
+margin-bottom:13px;
+margin-top:13px;
+}
+.second-p{
+  font-family:arial;
+}
+.yes-button{
+  margin-right:6px;
+  cursor: pointer;
+}
+.no-button{
+  cursor: pointer;
+}
+.fourth-div{
+  cursor:pointer;
+  background-color:rgb(40, 40, 40);
+  border:none;
+  padding-top:0px;
+  padding-left:17px;
+  
+  display:inline-block;
+}
+.third-p{
+  font-weight:bold;
+ font-size:33px;
+ font-family:Arial;
+color:white;
+padding-top:3px;
+}
+.fourth-p{
+  font-family:arial;
+  color:rgb(100, 98, 98);
+  width:370px;
+}
+.dog-image{
+  width:200px;
+  height:200px;
+  cursor:pointer;
+}
+.profile-div{
+  display:inline-block;
+  
+  width: 200px;
+  border:none;
+ 
+  box-shadow:0px 0px 6px rgba(0,0,0,0.3);
+}
+.name-p{
+  font-weight:bold;
+  font-family:Arial;
+  margin-left:8px;
+  cursor:pointer;
+}
+.mutual-friend-p{
+  color:rgb(100,100,100);
+  font-family:Arial;
+  margin-left:8px;
+  cursor:pointer;
+
+}
+.add-friend-button{
+  cursor:pointer;
+  padding-top:7px;
+  padding-bottom:7px;
+  padding-right:11px;
+  padding-left:11px;
+  margin-left:8px;
+  margin-bottom:8px;
+  color:white;
+  border-style:solid;
+  border-color:rgb(55,88,187);
+  border-radius:4px;
+  background-color: rgb(55, 88, 187);
+  transition:box-shadow 0.7s, background-color 0.1,
+  border-color 0.1s,
+  color 0.1s;
+}
+.add-friend-button:hover{
+  box-shadow:5px 5px 10px rgb(55, 88, 187);
+}
+.add-friend-button:active{
+  background-color:white;
+  border-color:white;
+  color:rgb(55,88,187);
+}
+
+.twitter-div{
+  display:inline-block;
+  border-radius:4px;
+  box-shadow:1px 1px 3px black;
+  
+  
+}
+.hot-pocket{
+  border-radius:29px;
+  height:40px;
+  width:40px;
+  margin-top:7px;
+margin-right:4px;
+margin-left:7px;
+object-fit:cover;
+  vertical-align: middle;
+border-color:black;
+cursor:pointer;
+margin-bottom:7px;
+}
+.twitter-textbox{
+border:none;
+vertical-align: middle;
+padding-top:15px;
+padding-bottom: 15px;
+padding-right:75px;
+cursor:pointer;
+
+}
+.tweet-button{ margin-right:7px;
+  font-weight:bold;
+  color:white;
+  background-color:rgb(70, 125, 228);
+  border-radius:20px;
+  padding-left:14px;
+  padding-right:14px;
+  padding-bottom:6px;
+  padding-top:6px;
+border-color:rgb(70, 125, 228);
+border-style:solid;
+cursor:pointer;
+transition:box-shadow 0.7s, background-color 0.1,
+border-color 0.1s,
+color 0.1s;
+vertical-align: middle;
+}
+
+.tweet-button:hover{
+ 
+  box-shadow:5px 5px 10px rgb(70, 125, 228);
+}
+.tweet-button:active{
+  background-color:white;
+  border-color:white;
+  color:rgb(70, 125, 228);
+}
+.search-2{
+  width: 300px;
+margin-left:400px;
+  border:none;
+
+  border-radius:20px;
+  border-width:0.15px;
+  box-shadow:1px 1px 3px white;
+ 
+  padding-bottom:12px;
+  padding-top:12px;
+  padding-left:10px;
+  cursor:pointer;
+  margin-top:0px;
+  background-color: black;
+
+}
+.google-image{
+  margin-left:360px;
+  margin-bottom:8px;
+  vertical-align: middle;
+  margin-top:2px;
+  background-color: black;
+}
+.google-p{
+  vertical-align: bottom;
+display:inline-block;
+  Font-weight:bold;
+  font-family:Arial;
+  font-size:50px;
+  margin-bottom:8px;
+  margin-top:2px;
+  margin-left:43px;
+  color:rgb(100,100,100);
+  background-color: black;
+}
+.button-div{
+  
+    color: black;
+    background-color: rgb(234, 234, 234);
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-right: 12px;
+    margin-top: 23px;
+    cursor: pointer;
+    transition: backgroun-color 0.3s;
+
+}

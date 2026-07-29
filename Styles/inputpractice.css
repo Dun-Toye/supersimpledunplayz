@@ -1,0 +1,112 @@
+.search-1{
+  border-radius:5px;
+border-width:1px;
+padding-top:8px;
+padding-bottom:8px;
+padding-left:5px;
+border-color: gray ;
+border-style:solid;
+cursor:pointer;
+}
+.search-2{
+  width: 300px;
+
+  border:none;
+
+  border-radius:13px;
+  border-width:0.15px;
+  box-shadow:1px 1px 3px black;
+ 
+  padding-bottom:6px;
+  padding-top:6px;
+  padding-left:6px;
+  cursor:pointer;
+
+}
+.email{
+  font-family:arial;
+  color:gray;
+  margin-top:0px;
+  margin-bottom:4px;
+}
+.linkedin{
+width:400px;
+height:25px;
+cursor:pointer;
+border-width:2px;
+border-style:solid;
+border-radius: 3px;
+border-color:gray;
+}
+.agree-p{
+color:gray;
+font-family:Arial;
+}
+.agree-button{
+  color:white;
+  background-color:rgb(38, 127, 194);
+  border-color:rgb(38,127,194);
+  border-style:solid;
+  border-radius:20px;
+  padding-left:157px;
+  padding-right:157px;
+  padding-top:9px;
+  padding-bottom:9px;
+cursor:pointer;
+transition: box-shadow 0.8s,background-color 0.1s, color 0.1s,
+border-color 0.1s;}
+.agree-button:hover{
+  box-shadow:5px 5px 10px rgb(38,127,194);
+}
+.agree-button:active{
+  background-color:white;
+  color:rgb(38,127,194);
+  border-color:white;
+}
+.hot-pocket{
+  border-radius:29px;
+  height:50px;
+  width:50px;
+  margin-top:6px;
+margin-right:4px;
+object-fit:cover;
+  vertical-align: middle;
+border-color:black;
+cursor:pointer;
+}
+.twitter-textbox{
+border:none;
+vertical-align: middle;
+padding-top:15px;
+padding-bottom: 15px;
+padding-right:75px;
+cursor:pointer;
+
+}
+.tweet-button{
+  font-weight:bold;
+  color:white;
+  background-color:rgb(70, 125, 228);
+  border-radius:20px;
+  padding-left:14px;
+  padding-right:14px;
+  padding-bottom:6px;
+  padding-top:6px;
+border-color:rgb(70, 125, 228);
+border-style:solid;
+cursor:pointer;
+transition:box-shadow 0.7s, background-color 0.1,
+border-color 0.1s,
+color 0.1s;
+vertical-align: middle;
+}
+
+.tweet-button:hover{
+ 
+  box-shadow:5px 5px 10px rgb(70, 125, 228);
+}
+.tweet-button:active{
+  background-color:white;
+  border-color:white;
+  color:rgb(70, 125, 228);
+}
